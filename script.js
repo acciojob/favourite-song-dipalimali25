@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Favourite Song</title>
-</head>
-<body>
-    <div>
-        <p>My current favourite song is <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Never Gonna Give You Up</a></p>
-    </div>
-</body>
-</html>
+ 
